@@ -1,0 +1,153 @@
+About Me: 
+Pratham Chawla is  a passionate and skilled professional specializing in Computer Vision and Deep Learning. My journey in technology is fueled by curiosity and a dedication to solving real-world problems through innovative solutions. With hands-on experience in AI, machine learning, and generative AI, I strive to create impactful projects and enhance my expertise in cutting-edge technologies.
+
+Here are your contact details and links for easy reference:
+
+Phone: (+91) 8950910576
+Location: Rohtak, Haryana
+Email: Prathamchawla21@gmail.com
+GitHub: https://github.com/Prathamchawla
+LinkedIn: https://www.linkedin.com/in/pratham-chawla
+
+
+
+Skills:
+1. Python: I have a solid command of Python, leveraging its extensive libraries and frameworks to solve diverse technical challenges. From data analysis with Pandas and NumPy to building machine learning models with TensorFlow and PyTorch, Python is my go-to tool for both research and development. My experience spans scripting automation, developing AI models, and integrating solutions into end-to-end pipelines.
+
+2. SQL (Structured Query Language): 
+Proficient in SQL, I manage, query, and manipulate large datasets with ease. My expertise includes creating complex queries, optimizing database performance, and designing relational schemas. I have hands-on experience with database management systems like MySQL, PostgreSQL, and Microsoft SQL Server, enabling me to extract meaningful insights from structured data efficiently.
+
+3. Data Science Skills
+Data Science Pipeline:
+I am skilled in the end-to-end data science process, including data cleansing, wrangling, visualization, modeling, and interpretation. From preprocessing raw data to developing robust machine learning models, I ensure that every stage of the pipeline is streamlined and efficient.
+
+4. Statistics:
+A strong foundation in statistical principles empowers me to interpret data trends, perform hypothesis testing, and make data-driven decisions. I apply statistical methods to uncover patterns and validate results with confidence.
+
+5. Visualization:
+With a focus on storytelling, I use tools like Matplotlib, Seaborn, and Power BI to craft compelling visualizations that communicate insights effectively to technical and non-technical stakeholders alike.
+
+
+6. Business Intelligence Tools:  a) SSIS (SQL Server Integration Services):
+I have experience automating ETL (Extract, Transform, Load) processes using SSIS to manage and integrate data from multiple sources seamlessly.
+
+b) SSMS (SQL Server Management Studio):
+Proficient in SSMS, I execute database administration tasks, including query optimization, database tuning, and secure data management.
+
+c) Power BI:
+I design interactive dashboards in Power BI, transforming complex datasets into visually engaging reports that support informed decision-making.
+
+7. Deep Learning Expertise : a) Natural Language Processing (NLP):
+I specialize in building NLP applications, including text classification, sentiment analysis, and chatbot development, leveraging transformer-based architectures for enhanced performance.
+
+b) CNN (Convolutional Neural Networks):
+My expertise in CNNs enables me to process and analyze images, powering applications like image recognition, captioning, and object detection.
+
+c) RCNN (Region-Based Convolutional Neural Networks):
+With RCNNs, I develop models for precise object detection, particularly for multi-object environments and applications requiring high accuracy.
+
+d) YOLO (You Only Look Once):
+YOLO is my go-to model for real-time object detection. I have implemented YOLO-based solutions in diverse domains, from surveillance to sports analytics.
+
+7. Excel : An advanced user of Microsoft Excel, I utilize it for data organization, analysis, and reporting. From pivot tables and dynamic charts to advanced formulas and macros, I maximize Excel’s capabilities to streamline workflows and enhance productivity.
+
+8. Soft Skills:  a) Project Management:
+I excel in organizing and executing projects, ensuring timely delivery and alignment with objectives. My ability to manage resources, plan sprints, and coordinate cross-functional teams has consistently led to project success.
+
+b) Teamwork: Collaboration is at the core of my professional ethos. I thrive in team settings, contributing innovative ideas, supporting colleagues, and maintaining a positive work environment to achieve shared goals.
+
+c) Algorithms: With a strong grasp of algorithms, I optimize solutions for efficiency and scalability. My expertise covers a range of algorithms in data structures, graph theory, and deep learning, which I employ to solve complex problems effectively.
+
+
+
+Previous Experience: 
+Data Analyst Intern – SpiceJet
+Location: Udyog Vihar Phase 4, Gurgaon
+Duration: August 2023 – October 2023
+
+During my tenure as a Data Analyst Intern at SpiceJet, I contributed significantly to enhancing the company's data-driven decision-making processes. My key achievements include:
+
+Data Quality Enhancement:
+
+Utilized Excel’s advanced data cleaning tools to identify and rectify inconsistencies in datasets.
+Achieved a 25% reduction in data errors, directly improving the accuracy of operational and strategic decisions.
+ETL Process Optimization:
+
+Collaborated closely with the Database Administrator (DBA) to optimize data workflows.
+Implemented SSIS (SQL Server Integration Services) and SSMS (SQL Server Management Studio) tools, increasing the efficiency of data extraction by 50%.
+Strategic Power BI Reporting:
+
+Partnered with the analyst team to create a detailed Power BI report analyzing the profitability of voucher offers tied to available seating capacity.
+The analysis revealed a total profit of 1.90 million, guiding the company to adopt more effective strategies for revenue generation.
+This experience sharpened my expertise in data analysis, visualization, and ETL processes while emphasizing the value of cross-functional teamwork and data-driven insights in driving business success.
+
+
+Present Experience of Pratham Chawla : Computer Vision Developer: As a Computer Vision Developer, I specialize in building AI-driven solutions tailored to real-world challenges. My role involves developing, deploying, and optimizing computer vision applications across various domains. Below are the highlights of my current contributions: Present Experience Projects:  Here are the List of all the Present experinece Projects I did Until now: 1. Person Loitering, Intrusion, Crowd, and Abandoned Object Detection
+Objective: To detect loitering individuals, monitor intrusions and crowds, and identify abandoned objects in surveillance footage.
+Approach:
+Leveraged a custom-trained YOLO model for real-time person detection.
+Employed classical algorithms for abandoned object detection to address computational limitations.
+Designed a solution to handle multiple video streams efficiently.
+Utilized tools like FFMPEG and GStreamer for stream management and processing.
+Impact: Enhanced surveillance capabilities for multi-stream environments, ensuring faster and more reliable detection.
+2. Fire Detection and Train Stoppage Detection
+Objective: To monitor fire hazards and detect prolonged train stoppages in real-time.
+Approach:
+Trained a custom YOLO model on a dataset of 25,000 images to detect fire with high accuracy.
+Designed a system to issue alerts if a train remains stationary for more than 2 minutes.
+Impact: Improved safety measures and operational monitoring for critical scenarios, reducing response times to emergencies.
+3. Face Recognition System for Edge Devices
+Objective: To develop a lightweight and efficient face recognition system optimized for edge devices.
+Approach:
+Integrated SCRFD for robust face detection.
+Built a custom recognition model achieving excellent performance within a range of 30-50 meters.
+Impact: Delivered a high-accuracy, edge-optimized face recognition solution suitable for resource-constrained environments.
+
+
+Old Projects :  1. MNIST Data Classification Using LeNet-5 - Project : Designed and implemented the LeNet-5 architecture to classify handwritten digits from the MNIST dataset.
+Achieved a high level of accuracy by efficiently training the CNN model to recognize and categorize digit patterns.
+Demonstrated proficiency in foundational deep learning concepts, including convolutional and pooling operations.
+2. YOLO Custom-Trained Model for Construction Safety - Project : Developed a custom YOLO model to detect safety violations at construction sites, such as absence of helmets or unauthorized entries.
+Created a real-time monitoring system that generates alerts upon detecting violations.
+Enhanced safety protocols by offering actionable insights to improve compliance and reduce risks.
+
+New Projects :  3. Google Deep Dream and Neural Style Transfer - Project : Implemented Google Deep Dream for generating surrealistic visual transformations of images.
+Applied Neural Style Transfer to blend artistic styles with existing images, creating visually compelling outputs.
+Showcased creativity and technical expertise in combining art and deep learning.
+4. Face Recognition with Siamese Networks - Project : Built a face recognition system using Siamese Networks to perform one-shot learning for identifying individuals with minimal data.
+Leveraged contrastive loss to train the network for robust facial embedding comparisons.
+Achieved high accuracy in verifying identities across diverse datasets.
+5. DeepFace vs CNN+RNN Approach for Emotion Detection - Project : Conducted a comparative study between DeepFace and a custom CNN+RNN architecture for emotion detection.
+Demonstrated superior results with the CNN+RNN approach, effectively handling the sequential nature of facial expressions.
+Highlighted the advantages of combining spatial and temporal features for enhanced emotion recognition.
+6. Applications of YOLO - Project : Developed a comprehensive system utilizing YOLO for various real-world scenarios:
+a) Person Loitering Detection: Identified unusual lingering behavior in surveillance footage.
+b) Abandoned Object Detection: Recognized unattended objects in public spaces.
+c) Vehicle Analytics: Performed vehicle counting, wrong-direction detection, and lane violation monitoring.
+d) Parking Space Availability: Detected available and occupied parking spaces in real time.
+Enhanced surveillance and traffic management systems with accurate, real-time insights.
+7. Image Captioning on Flickr 8K Dataset - Project : Created an image captioning system using a CNN+RNN architecture to generate descriptive captions for images in the Flickr 8K dataset.
+Combined visual feature extraction with sequential text generation for meaningful captioning.
+Improved image accessibility by providing automated textual descriptions.
+8. Video Title Generation Using CNN+RNN - Proejct : Designed a model to generate relevant video titles by integrating CNNs for extracting frame features and RNNs for sequential text generation.
+Enhanced video content accessibility by producing descriptive titles tailored to the visual content.
+9. Next Words Prediction Using LSTM vs GRU - Project : Developed models using LSTM and GRU architectures to predict the next word in a sequence.
+Conducted a comparative analysis, demonstrating trade-offs in efficiency and accuracy between the two architectures.
+Highlighted the practical applications of sequence modeling in predictive text systems.
+10. Image Search with Text Queries on Flickr 8K Project : Built a cross-modal retrieval system that allows image searches based on textual queries.
+Integrated CNNs for visual feature extraction and textual embeddings to achieve semantic alignment between images and queries.
+Provided an intuitive way to search and explore image datasets.
+Latest Projects :  11. Point Cloud Classification Project : Applied deep learning techniques to classify 3D point cloud data into distinct categories, such as buildings, vehicles, and trees.
+Developed expertise in processing 3D spatial data, enhancing the ability to understand and interpret complex environments.
+12. 3D Point Cloud and Mesh Generation Using a Single Image Project : Built a system to reconstruct 3D point clouds and meshes from single 2D images.
+Combined photogrammetry principles with deep learning models for realistic and detailed 3D representations.
+Enabled applications in 3D modeling, augmented reality, and virtual environments.
+13. Web Page Q&A App Using Generative AI Project : Developed a Generative AI-powered application capable of answering questions based on a given webpage’s content.
+Leveraged advanced NLP techniques to ensure accurate and contextually relevant responses.
+Streamlined information retrieval and user interaction, demonstrating the versatility of AI in enhancing digital experiences.
+
+
+
+
+
+
