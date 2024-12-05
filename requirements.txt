@@ -4,3 +4,4 @@ langchain-groq
 langchain-huggingface
 langchain-core
 python-dotenv
+faiss-cpu
