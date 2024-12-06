@@ -1,5 +1,6 @@
 import streamlit as st
 from langchain.chains.combine_documents import create_stuff_documents_chain
+
 from langchain_community.document_loaders import TextLoader
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.chains import create_retrieval_chain
@@ -16,6 +17,8 @@ groq_api_key = os.getenv("GROQ_API_KEY")
 os.environ['HUGGING_API_KEY'] = os.getenv("HUGGING_API_KEY")
 llm = ChatGroq(groq_api_key=groq_api_key,model="Llama3-8b-8192")
 
+if "chat_history" not in st.session_state:
+    st.session_state.chat_history = []
 # Load environment variables (if needed for API keys)
 
 # Set up the title and layout
@@ -56,9 +59,6 @@ with st.sidebar:
     
     st.subheader("Soft Skills")
     st.write("Project Management, Teamwork, Algorithms")
-# Initialize the chat history and retrieve necessary environment variables
-
-chat_history = []
 
 # Streamlit setup for the user interface
 
@@ -125,10 +125,10 @@ user_input = st.text_input("Ask a question:")
 
 # When the user submits a question
 if user_input:
-    response = rag_chain.invoke({"input": user_input, "chat_history": chat_history})
+    response = rag_chain.invoke({"input": user_input, "chat_history": st.session_state.chat_history})
     
     # Store the question and answer in chat history
-    chat_history.extend(
+    st.session_state.chat_history.extend(
         [
             HumanMessage(content=user_input),
             AIMessage(content=response["answer"])
@@ -142,12 +142,12 @@ if user_input:
 
 # Optionally, you can also provide a button to clear chat history
 if st.button("Clear Chat History"):
-    chat_history.clear()
+    st.session_state.chat_history.clear()
     st.write("Chat history cleared.")
 
 def download_chat_history():
     chat_text = ""
-    for message in chat_history:
+    for message in st.session_state.chat_history:
         if isinstance(message, HumanMessage):
             chat_text += f"User: {message.content}\n"
         elif isinstance(message, AIMessage):
